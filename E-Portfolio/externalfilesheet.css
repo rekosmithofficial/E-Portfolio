@@ -1,0 +1,212 @@
+/*CSS Reset*/
+/*index.htm*/
+
+html {
+
+	font-family: helvetica, arial, sans-serif;
+	color: #00000;
+}
+h2 {
+	font-size: 1.8em;
+	background-color: #d1cfcf;
+	text-align: center;
+}
+p  {
+	
+	font-weight: normal;
+	text-align: left;
+	font-size: 1.2em;
+}
+
+}
+#container {
+	
+	position: absolute;
+	width: 90%;
+	margin: 0 auto;
+	padding: 25px;
+	text-align: left;
+	border: 3px solid #565555;
+	background-color: #565555;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+#header {
+	position: relative;
+	width:100%;
+    margin: 0 auto;
+	border: 3px solid #d1cfcf;
+	background-color: #d1cfcf;
+}
+
+#nav {
+	position: relative;
+	width: 100%;
+    margin: 0 auto;
+	border: 3px solid #d1cfcf;
+	background-color: #d1cfcf;
+}
+
+nav ul {
+	background-color: #d1cfcf;
+	margin: 0px;
+	padding: 0px;
+	font-size: 1.6em;
+	text-align: center;
+}
+
+nav li {
+	display: block;	
+}
+
+li a {
+    display: inline;
+    color: #0E0B16;
+    padding: 20px;
+    text-decoration: none;
+}
+	
+	
+#personaldetails {
+	position: relative;
+	width: 40%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #565555;
+	background-color: #E8E8E8;
+	float: right;
+}
+
+#qualifications {  
+	position: relative;
+	width: 40%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #565555;
+	background-color: #E8E8E8;
+	clear: right;
+	float: right;
+}
+
+#aboutme { 
+    position: relative;
+	clear: left;
+	width: 55%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #565555;
+	background-color: #E8E8E8;
+}
+
+table, th, td {
+	border: 1px solid #0E0B16;
+}
+
+#imageofreko {
+	float: left;
+	margin-top: 10px;
+}
+/*Units1and2.htm*/
+/*Units3and4.htm*/
+
+#title {
+
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	padding: 0px;
+	border: 0px;
+}
+
+#coloumnleft {
+	text-align: center;
+	float: left;
+	width: 45%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 10px;
+	border: 3px solid #4F4F4F;
+	background-color: #E8E8E8;
+}
+
+#unity {
+	float: left;
+	margin-top: 10px;
+}
+
+#notepad {
+	float: left;
+	margin-top: 10px;
+}
+
+#logisim {
+	clear: right;
+	float: right;
+	margin-top: 10px;
+}
+
+#processing {
+	clear: right;
+	float: right;
+	margin-top: 10px;
+}
+
+#coloumnright {
+
+	text-align: center;
+	float: right;
+	width: 45%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 10px;
+	border: 3px solid #4F4F4F;
+	background-color: #E8E8E8;
+}
+
+/*personaldev.htm*/
+
+
+
+
+#roles {
+	
+	width: 64.0%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #4F4F4F;
+	background-color: #E8E8E8;
+	float: right;
+}
+
+#improvements {
+	list-style-type: none;
+	width: 13.5%;
+	height: 100%;
+	margin-left: 32px;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #4F4F4F;
+	background-color: #E8E8E8;	
+	float: left;
+}
+
+#skillslist {
+	
+	width: 13.5%;
+	height: 100%;
+	margin-top: 25px;
+	padding: 5px;
+	border: 3px solid #4F4F4F;
+	background-color: #E8E8E8;	
+	float: left;
+}
+
+#overview {
+	color: #000000;
+}
